@@ -1,11 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
+#requete sur l'url pour récupérer le html du site
 rq = requests.get("https://www.cheriefm.fr/horoscope")
 page = rq.content
 soup = BeautifulSoup(page, "html.parser")
 
-#récupération des
+#récupération des données dans les balises html
 astro = soup.find_all("h2", {"class": "thumbnailHoroscope-title titleAside"})
 horo = soup.find_all("p", {"class": "thumbnailHoroscope-text"})
 

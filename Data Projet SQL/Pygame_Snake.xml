@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<pygame>
+	<group>
+<! -- Rustam Guseynov -->
+	<membre id="1">
+		<nom>Guseynov</nom>
+		<prenom>Rustam</prenom>
+		<b_day>17;03;1991</b_day>
+	</membre>
+<! -- Marina Champredon -->
+	<membre id="2">
+		<nom>Champredon</nom>
+		<prenom>Marina</prenom>
+		<b_day>26;06;1990</b_day>
+	</membre>
+<!-- Arthur Dentand -->
+	<membre id="3">
+		<nom>Dentand</nom>
+		<prenom>Arthur</prenom>
+		<b_day>01;04;1994</b_day>
+	</membre>
+<!-- Bachir Kettab -->
+	<membre id="4">
+		<nom>Kettab</nom>
+		<prenom>Bachir</prenom>
+		<b_day>08;07;1987</b_day>
+	</membre>
+	</group>
+	<classes>1</classes>
+	<codeline>236</codeline>
+	<github>git@github.com:Azumana/PygameSnake.git</github>
+</pygame>

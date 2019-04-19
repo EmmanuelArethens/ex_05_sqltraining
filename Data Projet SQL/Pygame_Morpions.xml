@@ -1,0 +1,22 @@
+<pygame_morpion>
+    <group>
+        <member id="1">
+        <prenom>Kodjo</prenom>
+        </member>
+        <member id="2">
+        <prenom>William</prenom>
+        </member>
+        <member id="3">
+        <prenom>Emmanuel</prenom>
+        </member>
+        <member id="4">
+        <prenom>Nory</prenom>
+        </member>
+    </group>
+    <classes>0</classes>
+    <codeline>49</codeline>
+    <github>https://github.com/tinwilliam/Pygame_morpion</github>
+</pygame_morpion>
+
+
+

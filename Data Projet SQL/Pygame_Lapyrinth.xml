@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pygame>
+    <group>
+        <member id="1">
+        <prenom>Théo</prenom>
+        </member>
+        <member id="2">
+        <prenom>Timothée</prenom>
+        </member>
+        <member id="3">
+        <prenom>Maidao</prenom>
+        </member>
+        <member id="4">
+        <prenom>Christine</prenom>
+        </member>
+    </group>
+    <classes>2</classes>
+    <codeline>249</codeline>
+    <github>https://github.com/timotheescheurer/LAPYRINTHE</github>
+</pygame>

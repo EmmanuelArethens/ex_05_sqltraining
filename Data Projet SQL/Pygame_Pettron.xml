@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pygame>
+    <group>
+        <member id="1">
+        <prenom>Hugo</prenom>
+        </member>
+        <member id="2">
+        <prenom>Adrien</prenom>
+        </member>
+        <member id="3">
+        <prenom>Caroline</prenom>
+        </member>
+        <member id="4">
+        <prenom>Haikouhi</prenom>
+        </member>
+    </group>
+    <classes>1</classes>
+    <codeline>102</codeline>
+    <github>https://github.com/cmerel/pygame</github>
+</pygame>

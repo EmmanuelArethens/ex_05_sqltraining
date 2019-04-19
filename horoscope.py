@@ -23,7 +23,7 @@ tlistdesc = len(liste_desc)
 #print(liste_titre)
 #print(liste_desc)
 
-
+#utilisation de la fonction zip pour regrouper les 2 listes en un dictionnaire
 result = zip()
 resultlist = list(result)
 print(resultlist)
